@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%" />
 
-# Hi, I'm Dhiya Harit <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">
+# Hi, I'm Dhiya Harit 👋
 
 </div>
 
